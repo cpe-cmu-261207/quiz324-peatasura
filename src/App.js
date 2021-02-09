@@ -97,7 +97,7 @@ function App() {
           {/* sample table */}
 
           <ItemTable name={"Coco"} gender={"Male"} age={"5"} />
-          <p>Your name and code here</p>
+          <p>Pryat Kaewthep 620610796</p>
         </div>
       </div>
     </ItemTable.Provider>
